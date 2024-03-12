@@ -14,12 +14,18 @@
         width:300px;
     }
 }
-
-
 .dancing-script {
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
   font-weight:700;
   font-style: normal;
 }
+.nav-link:hover {
+ color: white;
+
+}
+.nav-item:hover {
+    color: white;
+   
+   }
   
